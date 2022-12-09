@@ -1,6 +1,6 @@
 # Image-Classification-Project
 
-Themain goal ofthis projectis to develop a systemthat can identify
+The main goal ofthis projectis to develop a systemthat can identify
 images of cats and dogs. The input image will be analyzed and then
 the output is predicted.
 
