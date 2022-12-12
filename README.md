@@ -6,4 +6,4 @@ the output is predicted.
 
 • Used libraries - TensorFlow Keras models, TensorFlow Keras layers,Pandas,Matplotlib.
 
-• Used CNN to buid this model.
+• Used CNN to buid this model
