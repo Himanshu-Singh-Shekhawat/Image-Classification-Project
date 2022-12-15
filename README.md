@@ -9,3 +9,12 @@ the output is predicted.
 • Used CNN to buid this model
 
 • I used Batch Normalisation and Dropout
+
+
+
+
+**➲ Contact**
+
+E-mail : himanshusinghshekhawat8@gmail.com
+
+LinkedIn : https://www.linkedin.com/in/himanshu-singh-shekhawat-2b5450154
