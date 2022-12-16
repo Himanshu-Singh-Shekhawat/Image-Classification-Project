@@ -7,7 +7,7 @@ the output is predicted.
 
 • Used libraries :- TensorFlow Keras models, TensorFlow, Keras layers, Pandas, Matplotlib
 
-• Used Generators for converting large amount of data in batches
+• Used Generators for converting large amount of data in batches.
 
 • Used CNN to buid this model
 
